@@ -100,12 +100,10 @@ ENV/
 
 *.sqlite3
 .vagrant
+ubuntu-xenial-16.04-cloudimg-console.log
 
 # no  se da seguimiento a los paquetes de node-modules
 node_modules
-
-#omitimos proyecto de repaso de lukask_middleware
-src/repaso_midd
 
 #omitimos la configuracion del archivo de la maquina virtual de vagrant
 Vagrantfile
