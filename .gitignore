@@ -104,6 +104,3 @@ ubuntu-xenial-16.04-cloudimg-console.log
 
 # no  se da seguimiento a los paquetes de node-modules
 node_modules
-
-#omitimos la configuracion del archivo de la maquina virtual de vagrant
-Vagrantfile
